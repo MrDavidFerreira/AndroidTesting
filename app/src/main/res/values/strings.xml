@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidTesting</string>
+    <string name="intro">Ingresar URL</string>
+    <string name="titulo">Conversor de Divisas</string>
+    <string name="ip">IP del servicio</string>
+    <string name="valorIp">192.168.0.13</string>
+    <string name="enviar">Enviar</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="cien">100</string>
+    <string name="euros">A Euros</string>
+    <string name="dolares">A Dólares</string>
+</resources>
